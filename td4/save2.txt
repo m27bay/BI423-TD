@@ -1,0 +1,3 @@
+The string is: ACGU
+Her size is: 0
+She haves 0 of char: 
